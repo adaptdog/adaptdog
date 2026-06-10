@@ -9,7 +9,13 @@ draft: false
 Ready to book, or just have questions? I'd love to hear from you.
 
 **Email:** [adaptdotdog@gmail.com](mailto:adaptdotdog@gmail.com)
+---
 
+### New Client Intake Form
+
+Please complete the intake form before your first appointment:
+
+[Complete Intake Form Online](/intake/)
 I'll get back to you to talk through your dog's needs, answer any questions, and find a time that works.
 
 ---
