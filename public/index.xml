@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>A.D.A.P.T.</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:49568/</link>
     <description>Recent content on A.D.A.P.T.</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:49568/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:49568/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:49568/about/</guid>
       <description>&lt;h2 id=&#34;meet-janet&#34;&gt;Meet Janet&lt;/h2&gt;
 &lt;p&gt;I have been obsessed with dogs since I was a kid. For nearly two decades I have built my life and career around taking care of them and learning about them, an endeavor I never intend to quit.&lt;/p&gt;
 &lt;p&gt;My journey started in 2007 at a dog daycare, where I spent years immersed in caring for a pack of dogs, many of whom I watched grow up. I managed their play, loved on them, did basic training, and learned firsthand that every dog is a true individual with their own personality. It was there that I discovered my passion for understanding dog behavior and began apprenticing under an experienced groomer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://localhost:49568/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://localhost:49568/contact/</guid>
       <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;
 &lt;p&gt;Ready to book, or just have questions? I&amp;rsquo;d love to hear from you.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:adaptdotdog@gmail.com&#34;&gt;adaptdotdog@gmail.com&lt;/a&gt;&lt;/p&gt;
@@ -41,9 +41,9 @@
     </item>
     <item>
       <title>Services</title>
-      <link>http://localhost:1313/services/</link>
+      <link>http://localhost:49568/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/</guid>
+      <guid>http://localhost:49568/services/</guid>
       <description>&lt;h2 id=&#34;house-call-grooming&#34;&gt;House Call Grooming&lt;/h2&gt;
 &lt;p&gt;A.D.A.P.T. comes to you. Every appointment is one-on-one; just your dog, in their own space, with a groomer who takes the time to do it right.&lt;/p&gt;
 &lt;p&gt;No crates. No cages. No other animals. No chaos. Just calm, attentive care from start to finish.&lt;/p&gt;
