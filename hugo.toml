@@ -1,4 +1,4 @@
-baseURL = "https://yourdomain.com/"
+baseURL = baseURL = "https://www.adapt.dog/"
 defaultContentLanguage = "en"
 title = "A.D.A.P.T."
 theme = "PaperMod"
