@@ -8,7 +8,7 @@ draft: false
 
 Ready to book, or just have questions? I'd love to hear from you.
 
-**Email:** adaptdotdog@gmail.com
+**Email:** [adaptdotdog@gmail.com](mailto:adaptdotdog@gmail.com)
 
 I'll get back to you to talk through your dog's needs, answer any questions, and find a time that works.
 
@@ -34,6 +34,6 @@ The more I know upfront, the better I can prepare to give your dog exactly what 
 
 Please download and complete these forms before your first appointment:
 
-[Download Intake Form](/intake-form.pdf)
+[Download Intake Form](/ADAPT_Intake_Form.pdf)
 
-[Download Liability Waiver](/liability-waiver.pdf)
+[Download Service Agreement](/ADAPT_Service_Agreement.pdf)
