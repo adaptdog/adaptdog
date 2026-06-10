@@ -30,3 +30,10 @@ When you reach out, it helps to have a few things ready:
 - Your general availability
 
 The more I know upfront, the better I can prepare to give your dog exactly what they need.
+### Forms
+
+Please download and complete these forms before your first appointment:
+
+[Download Intake Form](/intake-form.pdf)
+
+[Download Liability Waiver](/liability-waiver.pdf)
