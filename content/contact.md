@@ -42,7 +42,7 @@ If you prefer not to fill them out online, please download and complete these fo
 
 [Download Intake Form](/ADAPT_Intake_Form.pdf)
 
-[Download Service Agreement](/ADAPT_Service_Agreement_v2.pdf)
+[Download Service Agreement](/ADAPT_Service_Agreement_v3.pdf)
 ### Service Agreement
 
 All new clients must sign a Service Agreement before their first appointment. You will receive this via email from SignWell prior to your first grooming session.
