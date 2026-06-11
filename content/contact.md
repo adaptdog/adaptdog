@@ -38,7 +38,7 @@ When you reach out, it helps to have a few things ready:
 The more I know upfront, the better I can prepare to give your dog exactly what they need.
 ### Forms
 
-Please download and complete these forms before your first appointment:
+If you prefer not to fill them out online, please download and complete these forms before your first appointment:
 
 [Download Intake Form](/ADAPT_Intake_Form.pdf)
 
