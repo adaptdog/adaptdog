@@ -11,8 +11,20 @@ theme = "PaperMod"
   Content = "Where A.ll D.ogs A.re P.eople T.oo — Professional house call dog grooming serving Graham, WA and surrounding areas."
 
 [[params.socialIcons]]
-  name = "About"
-  url = "/about/"
+  name = "instagram"
+  url = "https://www.instagram.com/adaptdotdog/"
+
+[[params.socialIcons]]
+  name = "facebook"
+  url = "https://www.facebook.com/share/18X71Ta9xM/"
+
+[[params.socialIcons]]
+  name = "youtube"
+  url = "https://www.youtube.com/channel/UCc7lPYAqQE8R76MWIxRrx6Q"
+
+[[params.socialIcons]]
+  name = "tiktok"
+  url = "https://www.tiktok.com/@adaptdotdog"
 
 [[menus.main]]
   name = "About"
