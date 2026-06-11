@@ -27,7 +27,7 @@ Every appointment is all-inclusive:
 
 ### Service Area
 
-Graham, WA and surrounding areas.
+Graham, WA; Pierce County; and surrounding areas.
 
 ---
 
