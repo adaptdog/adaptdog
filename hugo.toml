@@ -26,6 +26,11 @@ theme = "PaperMod"
   name = "tiktok"
   url = "https://www.tiktok.com/@adaptdotdog"
 
+  [[menus.main]]
+  name = "Home"
+  url = "/"
+  weight = 0
+
 [[menus.main]]
   name = "About"
   url = "/about/"
